@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
@@ -36,10 +36,10 @@
             </div>
             <div class="col-md-7">
                 <ul class="list-inline menu">
-                    <li><a href="content.html">home</a> <img src="../img/menuArrow.png" /></li>
-                    <li><a href="history.html">history</a> <img src="../img/menuArrow.png" /></li>
-                    <li><a href="profile.html">profile</a> <img src="../img/menuArrow.png" /></li>
-                    <li><a href="sayings.html">sayings</a> <img src="../img/menuArrow.png" /></li>
+                    <li><a href="content.html">inicio</a> <img src="../img/menuArrow.png" /></li>
+                    <li><a href="history.html">historia</a> <img src="../img/menuArrow.png" /></li>
+                    <li><a href="profile.html">perfil</a> <img src="../img/menuArrow.png" /></li>
+                    <li><a href="sayings.html">refranes</a> <img src="../img/menuArrow.png" /></li>
                     <li><a href="kamuichat.html">kamuichat</a> <img src="../img/menuArrow.png" /></li>
                     <li><a href="videos.html">videos</a> <img src="../img/menuArrow.png" /></li>
                 </ul>
@@ -56,22 +56,22 @@
                 <img src="../img/lineLight.png" height="20px" width="220px">
             </div>
             <div class="col-md-6">
-                <p class="pBG">UEHARA, Kamui - Estimated criminal record</p>
+                <p class="pBG">UEHARA, Kamui - Estimación de antecedentes penales</p>
                 <p>
-                    [Dec. 1975 Age 16]
-                    <br> Assassinated Makoto Ishihara, Mitama City Mayor. Around the same time, Shin Yanagi, president of Sumikawa Corp., the recycling business assumed to have bribed Nakahara, was also assassinated. Sumikawa Corp. had, as a recycling business, grown really fast, but a soil survey of the surrounding site showed that they had been engaging in the illegal dumping of PCDD.
+                    [Dic. 1975 Edad 16]
+                    <br> Asesinado Makoto Ishihara, alcalde de la ciudad de Mitama. Por la misma época, Shin Yanagi, presidente de Sumikawa Corp., la empresa de reciclaje que se supone que ha sobornado a Nakahara, también fue asesinado. Sumikawa Corp., como empresa de reciclaje, había crecido muy rápido, pero un estudio del suelo de los alrededores demostró que se habían dedicado al vertido ilegal de PCDD.
                     <br>
-                    <br> [Dec. 1976 Age 17]
-                    <br> Assassinated Yukio Hata, Vice-Minister of the Kanto Ministry of Justice. According to the Weekly Narc, Hata had reassigned Chairman Kimura of the Non-performing Loan Processing Organization. The investigation by Entertainment Realty, Inc., with close ties to Vice-Minister Hata's family, became complicated.
+                    <br> [Dic. 1976 Edad 17]
+                    <br>Asesinado Yukio Hata, viceministro del Ministerio de Justicia de Kanto. Según el Weekly Narc, Hata había reasignado al presidente Kimura de la Organización de Procesamiento de Préstamos Incobrables. La investigación de Entertainment Realty, Inc., con estrechos vínculos con la familia del Viceministro Hata, se complicó.
                     <br>
-                    <br> [Dec. 1977 Age 18]
-                    <br> Residence: Kanagawa District Assassinated 5 male junior high school students. The five students worked at a family restaurant. He also kidnapped and violated a 17-year-old girl, later dumping her into Kawasaki Bay. This case became very topical with the reporting of the victims' real names, due to the relationship between the Juvenile Act and the HC Unit.
+                    <br> [Dic. 1977 Edad 18]
+                    <br> Residencia: Distrito de Kanagawa Asesinó a 5 estudiantes masculinos de secundaria. Los cinco estudiantes trabajaban en un restaurante familiar. También secuestró y violó a una chica de 17 años, arrojándola después a la bahía de Kawasaki. Este caso se puso de actualidad al conocerse los nombres reales de las víctimas, debido a la relación entre la Ley de Menores y la Unidad de CA.
                     <br>
-                    <br> [Dec. 1978 Age 19]
-                    <br> Assassinated Church of Psyentology Representative Toshiki Sato. With 45,000 members, the Church of Psyentology, between 1987~March of 1988, forced its members to use contraception and refrain from giving birth as part of the cult's doctrine. Also, the poisoning case that occurred at the same time was also assumed to be part of the cult's "research" activities.
+                    <br> [Dic. 1978 Edad 19]
+                    <br> Toshiki Sato, representante de la Iglesia de la Psienciología asesinado. Con 45.000 miembros, la Iglesia de la Psienciología, entre 1987 y marzo de 1988, obligó a sus miembros a utilizar métodos anticonceptivos y a abstenerse de dar a luz como parte de la doctrina de la secta. Además, el caso de envenenamiento que se produjo al mismo tiempo también se asumió como parte de las actividades de "investigación" de la secta.
                     <br>
-                    <br> [Dec. 1979 Age 20]
-                    <br> The Silver Case "Dispute among the Kanto Big 3 NGO Parties" Nonprofit Regional Citizen Group TRO/CCO Confederation Chairman Ginji Nakane was on his way to a symposium recording when he was assassinated outside the front door of TTV Station. Cause of death was stabbing by a sharp metallic tube-like object. The assassination occurred on 12/7, the day of publication of corrections regarding the election of the new district mayor, a dispute between the FSO and the TRO/CCO. The perpetrator, Kamui Uehara, was immediately arrested upon commission of the crime. It was decided that he had acted alone and that the hit had been contracted, but the contractor was never found.
+                    <br> [Dic. 1979 Edad 20]
+                    <br> El Caso de Plata "Disputa entre los 3 grandes partidos de las ONG de Kanto" El presidente del grupo ciudadano regional sin ánimo de lucro TRO/CCO, Ginji Nakane, se dirigía a la grabación de un simposio cuando fue asesinado ante la puerta principal de la estación de TTV. La causa de la muerte fue el apuñalamiento con un objeto metálico afilado similar a un tubo. El asesinato se produjo el 12/7, el día de la publicación de las correcciones relativas a la elección del nuevo alcalde del distrito, una disputa entre el FSO y el TRO/CCO. El autor, Kamui Uehara, fue detenido inmediatamente después de cometer el crimen. Se decidió que había actuado solo y que el golpe había sido contratado, pero nunca se encontró al contratista.
                     <br>
                     <br>
                     <br>

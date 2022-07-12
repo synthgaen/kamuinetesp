@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
@@ -36,10 +36,10 @@
             </div>
             <div class="col-md-7">
                 <ul class="list-inline menu">
-                    <li><a href="content.html">home</a> <img src="../img/menuArrow.png" /></li>
-                    <li><a href="history.html">history</a> <img src="../img/menuArrow.png" /></li>
-                    <li><a href="profile.html">profile</a> <img src="../img/menuArrow.png" /></li>
-                    <li><a href="sayings.html">sayings</a> <img src="../img/menuArrow.png" /></li>
+                    <li><a href="content.html">inicio</a> <img src="../img/menuArrow.png" /></li>
+                    <li><a href="history.html">historia</a> <img src="../img/menuArrow.png" /></li>
+                    <li><a href="profile.html">perfil</a> <img src="../img/menuArrow.png" /></li>
+                    <li><a href="sayings.html">refranes</a> <img src="../img/menuArrow.png" /></li>
                     <li><a href="kamuichat.html">kamuichat</a> <img src="../img/menuArrow.png"/></li>
                     <li><a href="videos.html">videos</a> <img src="../img/menuArrow.png" /></li>
                 </ul>
@@ -56,8 +56,8 @@
                 <img src="../img/lineLight.png" height="20px" width="220px">
             </div>
             <div class="col-md-6">
-                <p class="pBG">UEHARA, Kamui - Famous Quotes</p>
-					<p>"Kill the past."</p>
+                <p class="pBG">UEHARA, Kamui - Frases Famosas</p>
+					<p>"Mata el pasado."</p>
             </div>
         </div>
         <p class="scLogo _mt200"><a href="http://thesilvercase.com/"><img src="../img/logo_silvercase.png" alt=""></a></p>
